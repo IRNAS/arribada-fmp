@@ -3,7 +3,6 @@ Arribada Fish Monitoring Platform
 
 
 ## Raspberry Pi Zero W pinout
-
  * 1 - 3V3 to LCD Display VCC (red)
 
  * 3 - SDA to RTC Module SDA (orange)
