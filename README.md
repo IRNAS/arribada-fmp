@@ -4,32 +4,32 @@ Arribada Fish Monitoring Platform
 
 ## Raspberry Pi Zero W pinout
 
-* 1 - 3V3 to LCD Display VCC (red)
+ * 1 - 3V3 to LCD Display VCC (red)
 
-* 3 - SDA to RTC Module SDA (orange)
-* 5 - SCL to RTC Module SCL (yellow)
-* 9 - GND to RTC Module GND (brown)
+ * 3 - SDA to RTC Module SDA (orange)
+ * 5 - SCL to RTC Module SCL (yellow)
+ * 9 - GND to RTC Module GND (brown)
 
-* 4 - 5V to Battery Pack 5Vout (red)
-* 6 - GND to Battery Pack GND (black)
+ * 4 - 5V to Battery Pack 5Vout (red)
+ * 6 - GND to Battery Pack GND (black)
 
-* 2 - 5V to Satcomm Module RockBLOCK Mk2 5Vin (purple)
-* 8 - UART TXD to Satcomm Module RockBLOCK Mk2 TXD (green)
-* 10 - UART RXD to Satcomm Module RockBLOCK Mk2 RXD (blue)
-* 12 - GPIO18 to Satcomm Module RockBLOCK Mk2 Ring Indicator (white)
-* 14 - GND to Satcomm Module RockBLOCK Mk2 GND (grey)
+ * 2 - 5V to Satcomm Module RockBLOCK Mk2 5Vin (purple)
+ * 8 - UART TXD to Satcomm Module RockBLOCK Mk2 TXD (green)
+ * 10 - UART RXD to Satcomm Module RockBLOCK Mk2 RXD (blue)
+ * 12 - GPIO18 to Satcomm Module RockBLOCK Mk2 Ring Indicator (white)
+ * 14 - GND to Satcomm Module RockBLOCK Mk2 GND (grey)
 
-* 15 - GPIO22 to Ultrasonic Sensor MaxBotix TX (blue)
-* 17 - 3V3 to Ultrasonic Sensor MaxBotix VCC (purple)
-* 20 - GND to Ultrasonic Sensor MaxBotix GND (grey)
+ * 15 - GPIO22 to Ultrasonic Sensor MaxBotix TX (blue)
+ * 17 - 3V3 to Ultrasonic Sensor MaxBotix VCC (purple)
+ * 20 - GND to Ultrasonic Sensor MaxBotix GND (grey)
 
-* 7 - GPIO4 (NC)
-* 11 - GPIO17 (NC)
-* 13 - GPIO27 (NC)
-* 16 - GPIO23 (NC)
-* 18 - GPIO24 (NC)
-* 19 - GPIO10 (NC)
-* 21-40 (NC)
+ * 7 - GPIO4 (NC)
+ * 11 - GPIO17 (NC)
+ * 13 - GPIO27 (NC)
+ * 16 - GPIO23 (NC)
+ * 18 - GPIO24 (NC)
+ * 19 - GPIO10 (NC)
+ * 21-40 (NC)
 
 ## Satcomm Module RockBLOCK Mk2 pinout
 1 - RTS (NC)
