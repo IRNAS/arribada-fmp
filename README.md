@@ -40,6 +40,9 @@ Not connected:
  * 21-40 (NC)
 
 ## Satcomm Module RockBLOCK Mk2 pinout
+
+![Satcomm Module RockBLOCK Mk2 pinout](/pics/Satcomm%20Module%20RockBLOCK%20Mk2%20pinout%201x6%20%2B%201x8.png)
+
 Connection to Raspberry Pi Zero W:
  * 1 - RTS (NC)
  * 2 - RXD to Raspberry Pi Zero W UART RXD (blue)
@@ -59,6 +62,9 @@ Connection to Raspberry Pi Zero W:
  * 14 - GND (NC)
 
 ## Ultrasonic Sensor MaxBotix pinout
+
+![Ultrasonic Sensor MaxBotix pinout](/pics/Ultrasonic%20Sensor%20MaxBotix%20pinout%201x4.png)
+
 Connection to Raspberry Pi Zero W:
  * 1 - GND to Raspberry Pi Zero W GND (grey)
  * 2 - VCC to Raspberry Pi Zero W 3V3 (purple)
@@ -66,6 +72,9 @@ Connection to Raspberry Pi Zero W:
  * 4 - TX to Raspberry Pi Zero W GPIO22 (blue)
 
 ## Battery Pack pinout
+
+![Battery Pack pinout](/pics/Battery%20Pack%20pinout%202x5.png)
+
 Connection to Raspberry Pi Zero W:
  * 1 - GND to Raspberry Pi Zero W GND (black)
  * 8 - 5Vout to Raspberry Pi Zero W 5V (red)
@@ -82,11 +91,16 @@ Not connected:
  * 4 - VBAT (NC)
  * 5 - 3V3en (NC)
 
+![Battery Pack pinout](/pics/Battery%20Pack%20pinout%201x2.png)
+
 Connection to power switch:
  * 1 - to power switch (red)
  * 2 - to power switch (black)
 
 ## RTC Module pinout
+
+![RTC Module pinout](/pics/RTC%20Module%20pinout%201x6.png)
+
 Connection to Battery Pack:
  * 1 - 32K (NC)
  * 2 - SQW to Battery Pack 5Ven (purple)
@@ -95,11 +109,15 @@ Connection to Battery Pack:
  * 5 - VCC to Battery Pack 3V3out (red)
  * 6 - GND to Battery Pack GND (brown)
 
+![RTC Module pinout](/pics/RTC%20Module%20pinout%201x4.png)
+
 Connection to Raspberry Pi Zero W:
  * 1 - SCL to Raspberry Pi Zero W SCL (yellow)
  * 2 - SDA to Raspberry Pi Zero W SDA (orange)
  * 3 - VCC (NC)
  * 4 - GND to Raspberry Pi Zero W GND (brown)
+
+![RTC Module pinout](/pics/RTC%20Module%20pinout%201x4.png)
 
 Connection to LCD Display:
  * 1 - SCL to LCD Display SCL (yellow)
@@ -108,6 +126,9 @@ Connection to LCD Display:
  * 4 - GND to LCD Display GND (brown)
 
 ## LCD Display pinout
+
+![LCD Display pinout](/pics/LCD%20Display%20pinout%201x4.png)
+
 Connection to Raspberry Pi Zero W:
  * 1 - VCC to Raspberry Pi Zero W 3V3 (red)
 
