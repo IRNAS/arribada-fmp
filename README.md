@@ -79,6 +79,10 @@ Not connected:
  * 4 - VBAT (NC)
  * 5 - 3V3en (NC)
 
+Connection to power switch:
+ * 1 to power switch
+ * 2 to power switch
+
 ## RTC Module pinout
 Connection to Battery Pack:
  * 1 - 32K (NC)
