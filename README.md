@@ -1,6 +1,12 @@
 # Arribada Fish Monitoring Platform
 Arribada Fish Monitoring Platform
 
+<span><img
+src="/pics/IMG_20170929_141407.jpg"  width="250px" height="187.5px">
+<img
+src="/pics/IMG_20170929_141339.jpg"  width="250px" height="187.5px">
+<img
+src="/pics/IMG_20170929_140921.jpg"  width="250px" height="187.5px"></span>
 
 ## Raspberry Pi Zero W pinout
 
