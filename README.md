@@ -37,13 +37,15 @@ Not connected:
  * 21-40 (NC)
 
 ## Satcomm Module RockBLOCK Mk2 pinout
+Connection to Raspberry Pi Zero W:
  * 1 - RTS (NC)
  * 2 - RXD to Raspberry Pi Zero W UART RXD (blue)
  * 3 - TXD to Raspberry Pi Zero W UART TXD (green)
  * 4 - VCC (NC)
  * 5 - CTS (NC)
  * 6 - GND (NC)
- * 
+
+Connection to Raspberry Pi Zero W:
  * 7 - GND to Raspberry Pi Zero W GND (grey)
  * 8 - 5Vin to Raspberry Pi Zero W 5V (purple)
  * 9 - 5Vout (NC)
@@ -54,46 +56,55 @@ Not connected:
  * 14 - GND (NC)
 
 ## Ultrasonic Sensor MaxBotix pinout
+Connection to Raspberry Pi Zero W:
  * 1 - GND to Raspberry Pi Zero W GND (grey)
  * 2 - VCC to Raspberry Pi Zero W 3V3 (purple)
  * 3 - RX (NC)
  * 4 - TX to Raspberry Pi Zero W GPIO22 (blue)
 
 ## Battery Pack pinout
+Connection to Raspberry Pi Zero W:
  * 1 - GND to Raspberry Pi Zero W GND (black)
  * 8 - 5Vout to Raspberry Pi Zero W 5V (red)
- * 
+
+Connection to RTC Module:
  * 2 - GND to RTC Module GND (brown)
  * 6 - 3V3out to RTC Module VCC (red)
  * 7 - 5Ven to RTC Module SQW (purple)
  * 9 - SDA to RTC Module SDA (orange)
  * 10 - SCL to RTC Module SCL (yellow)
- * 
+
+Not connected:
  * 3 - VBATen (NC)
  * 4 - VBAT (NC)
  * 5 - 3V3en (NC)
 
 ## RTC Module pinout
+Connection to Battery Pack:
  * 1 - 32K (NC)
  * 2 - SQW to Battery Pack 5Ven (purple)
  * 3 - SCL to Battery Pack SCL (yellow)
  * 4 - SDA to Battery Pack SDA (orange)
  * 5 - VCC to Battery Pack 3V3out (red)
  * 6 - GND to Battery Pack GND (brown)
- * 
+
+Connection to Raspberry Pi Zero W:
  * 1 - SCL to Raspberry Pi Zero W SCL (yellow)
  * 2 - SDA to Raspberry Pi Zero W SDA (orange)
  * 3 - VCC (NC)
  * 4 - GND to Raspberry Pi Zero W GND (brown)
- * 
+
+Connection to LCD Display:
  * 1 - SCL to LCD Display SCL (yellow)
  * 2 - SDA to LCD Display SDA (orange)
  * 3 - VCC (NC)
  * 4 - GND to LCD Display GND (brown)
 
 ## LCD Display pinout
+Connection to Raspberry Pi Zero W:
  * 1 - VCC to Raspberry Pi Zero W 3V3 (red)
- * 
+
+Connection to RTC Module:
  * 2 - GND to RTC Module GND (brown)
  * 3 - SCL to RTC Module SCL (yellow)
  * 4 - SDA to RTC Module SDA (orange)
