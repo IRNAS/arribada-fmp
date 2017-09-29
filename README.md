@@ -41,7 +41,7 @@ Not connected:
 
 ## Satcomm Module RockBLOCK Mk2 pinout
 
-<img src="/pics/Satcomm%20Module%20RockBLOCK%20Mk2%20pinout%201x6%20%2B%201x8.png"  height="80px">
+<img src="/pics/Satcomm%20Module%20RockBLOCK%20Mk2%20pinout%201x6%20%2B%201x8.png"  height="60px">
 
 Connection to Raspberry Pi Zero W:
  * 1 - RTS (NC)
@@ -63,7 +63,7 @@ Connection to Raspberry Pi Zero W:
 
 ## Ultrasonic Sensor MaxBotix pinout
 
-<img src="/pics/Ultrasonic%20Sensor%20MaxBotix%20pinout%201x4.png"  height="80px">
+<img src="/pics/Ultrasonic%20Sensor%20MaxBotix%20pinout%201x4.png"  height="60px">
 
 Connection to Raspberry Pi Zero W:
  * 1 - GND to Raspberry Pi Zero W GND (grey)
@@ -73,7 +73,7 @@ Connection to Raspberry Pi Zero W:
 
 ## Battery Pack pinout
 
-<img src="/pics/Battery%20Pack%20pinout%202x5.png"  height="160px">
+<img src="/pics/Battery%20Pack%20pinout%202x5.png"  height="120px">
 
 Connection to Raspberry Pi Zero W:
  * 1 - GND to Raspberry Pi Zero W GND (black)
@@ -91,7 +91,7 @@ Not connected:
  * 4 - VBAT (NC)
  * 5 - 3V3en (NC)
 
-<img src="/pics/Battery%20Pack%20pinout%201x2.png"  height="80px">
+<img src="/pics/Battery%20Pack%20pinout%201x2.png"  height="60px">
 
 Connection to power switch:
  * 1 - to power switch (red)
@@ -99,7 +99,7 @@ Connection to power switch:
 
 ## RTC Module pinout
 
-<img src="/pics/RTC%20Module%20pinout%201x6.png"  height="80px">
+<img src="/pics/RTC%20Module%20pinout%201x6.png"  height="60px">
 
 Connection to Battery Pack:
  * 1 - 32K (NC)
@@ -109,7 +109,7 @@ Connection to Battery Pack:
  * 5 - VCC to Battery Pack 3V3out (red)
  * 6 - GND to Battery Pack GND (brown)
 
-<img src="/pics/RTC%20Module%20pinout%201x4.png"  height="80px">
+<img src="/pics/RTC%20Module%20pinout%201x4.png"  height="60px">
 
 Connection to Raspberry Pi Zero W:
  * 1 - SCL to Raspberry Pi Zero W SCL (yellow)
@@ -117,7 +117,7 @@ Connection to Raspberry Pi Zero W:
  * 3 - VCC (NC)
  * 4 - GND to Raspberry Pi Zero W GND (brown)
 
-<img src="/pics/RTC%20Module%20pinout%201x4.png"  height="80px">
+<img src="/pics/RTC%20Module%20pinout%201x4.png"  height="60px">
 
 Connection to LCD Display:
  * 1 - SCL to LCD Display SCL (yellow)
@@ -127,7 +127,7 @@ Connection to LCD Display:
 
 ## LCD Display pinout
 
-<img src="/pics/LCD%20Display%20pinout%201x4.png"  height="80px">
+<img src="/pics/LCD%20Display%20pinout%201x4.png"  height="60px">
 
 Connection to Raspberry Pi Zero W:
  * 1 - VCC to Raspberry Pi Zero W 3V3 (red)
