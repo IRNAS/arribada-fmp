@@ -1,8 +1,12 @@
-# arribada-fmp
+# Arribada Fish Monitoring Platform
 Arribada Fish Monitoring Platform
 
 
 ## Raspberry Pi Zero W pinout
+
+<img
+src="https://github.com/IRNAS/arribada-fmp/tree/master/pics/Raspberry Pi Zero W pinout 2x10.png">
+
 Connection to LCD Display:
  * 1 - 3V3 to LCD Display VCC (red)
 
