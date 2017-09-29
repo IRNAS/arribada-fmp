@@ -73,7 +73,7 @@ Connection to Raspberry Pi Zero W:
 
 ## Battery Pack pinout
 
-![Battery Pack pinout](/pics/Battery%20Pack%20pinout%202x5.png"  height="160px">
+<img src="/pics/Battery%20Pack%20pinout%202x5.png"  height="160px">
 
 Connection to Raspberry Pi Zero W:
  * 1 - GND to Raspberry Pi Zero W GND (black)
