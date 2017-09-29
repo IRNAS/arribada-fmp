@@ -4,7 +4,7 @@ Arribada Fish Monitoring Platform
 
 ## Raspberry Pi Zero W pinout
 
-<img src="/pics/Raspberry%20Pi%20Zero%20W%20pinout%202x10.png"  height="160px">
+<img src="/pics/Raspberry%20Pi%20Zero%20W%20pinout%202x10.png"  height="120px">
 
 Connection to LCD Display:
  * 1 - 3V3 to LCD Display VCC (red)
