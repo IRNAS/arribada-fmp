@@ -80,8 +80,8 @@ Not connected:
  * 5 - 3V3en (NC)
 
 Connection to power switch:
- * 1 - to power switch
- * 2 - to power switch
+ * 1 - to power switch (red)
+ * 2 - to power switch (black)
 
 ## RTC Module pinout
 Connection to Battery Pack:
