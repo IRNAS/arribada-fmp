@@ -4,7 +4,7 @@
 
 ## Raspberry Pi Zero W pinout
 
-<img src="/IoT%20battery%20pack%20v1.2%20pinout/pics/Raspberry%20Pi%20Zero%20W%20pinout%202x10.png"  height="100px">
+<img src="/PiRA%20Zero%20pinout/pics/Raspberry%20Pi%20Zero%20W%20pinout%202x10.png"  height="100px">
 
 Connection to Ultrasonic Sensor MaxBotix:
  * 15 - GPIO22 to Ultrasonic Sensor MaxBotix TX (blue)
@@ -16,7 +16,7 @@ Not connected:
 
 ## PiRA Zero pinout
 
-<img src="/IoT%20battery%20pack%20v1.2%20pinout/pics/Battery%20Pack%20pinout%202x5.png"  height="100px">
+<img src="/PiRA%20Zero%20pinout/pics/PiRA%20pinout%201x4%20%2B%201x2.png"  height="100px">
 
 Connection to Satcomm Module RockBLOCK Mk2:
  * 2 - UART RXD to Satcomm Module RockBLOCK Mk2 RXD (blue)
@@ -26,7 +26,7 @@ Connection to Satcomm Module RockBLOCK Mk2:
  * 1 - OUT- to Satcomm Module RockBLOCK Mk2 GND (grey)
  * 2 - OUT+ to Satcomm Module RockBLOCK Mk2 5Vin (purple)
 
-<img src="/IoT%20battery%20pack%20v1.2%20pinout/pics/LCD%20Display%20pinout%201x4.png"  height="60px">
+<img src="/PiRA%20Zero%20pinout/pics/PiRA%20pinout%201x4.png"  height="60px">
 
 Connection to LCD Display:
  * 1 - GND to LCD Display GND (brown)
@@ -34,7 +34,7 @@ Connection to LCD Display:
  * 3 - SDA to LCD Display SDA (orange)
  * 4 - 3V3 to LCD Display VCC (red)
 
-<img src="/IoT%20battery%20pack%20v1.2%20pinout/pics/Battery%20Pack%20pinout%201x2.png"  height="60px">
+<img src="/PiRA%20Zero%20pinout/pics/PiRA%20pinout%201x2.png"  height="60px">
 
 Connection to power switch:
  * 1 - to power switch (red)
@@ -42,7 +42,7 @@ Connection to power switch:
 
 ## Ultrasonic Sensor MaxBotix pinout
 
-<img src="/IoT%20battery%20pack%20v1.2%20pinout/pics/Ultrasonic%20Sensor%20MaxBotix%20pinout%201x4.png"  height="60px">
+<img src="/PiRA%20Zero%20pinout/pics/Ultrasonic%20Sensor%20MaxBotix%20pinout%201x4.png"  height="60px">
 
 Connection to Raspberry Pi Zero W:
  * 1 - GND to Raspberry Pi Zero W GND (grey)
@@ -52,7 +52,7 @@ Connection to Raspberry Pi Zero W:
  
  ## Satcomm Module RockBLOCK Mk2 pinout
 
-<img src="/IoT%20battery%20pack%20v1.2%20pinout/pics/Satcomm%20Module%20RockBLOCK%20Mk2%20pinout%201x6%20%2B%201x8.png"  height="60px">
+<img src="/PiRA%20Zero%20pinout/pics/Satcomm%20Module%20RockBLOCK%20Mk2%20pinout%201x6%20%2B%201x8.png"  height="60px">
 
 Connection to PiRA Zero:
  * 1 - RTS (NC)
@@ -74,7 +74,7 @@ Connection to PiRA Zero:
 
  ## LCD Display pinout
 
-<img src="/IoT%20battery%20pack%20v1.2%20pinout/pics/LCD%20Display%20pinout%201x4.png"  height="60px">
+<img src="/PiRA%20Zero%20pinout/pics/LCD%20Display%20pinout%201x4.png"  height="60px">
 
 Connection to PiRA Zero:
  * 1 - VCC to PiRA Zero 3V3 (red)
