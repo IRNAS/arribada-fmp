@@ -16,7 +16,7 @@ Not connected:
 
 ## PiRA Zero pinout
 
-<img src="/PiRA%20Zero%20pinout/pics/PiRA%20pinout%201x4%20%2B%201x2.png"  height="100px">
+<img src="/PiRA%20Zero%20pinout/pics/PiRA%20pinout%201x4%20%2B%201x2.png"  height="60px">
 
 Connection to Satcomm Module RockBLOCK Mk2:
  * 2 - UART RXD to Satcomm Module RockBLOCK Mk2 RXD (blue)
