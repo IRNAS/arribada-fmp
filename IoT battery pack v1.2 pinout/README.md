@@ -1,5 +1,7 @@
 # IoT battery pack v1.2 pinout
 
+<img src="/IoT%20battery%20pack%20v1.2%20pinout/pics/IMG_20171025_102726.jpg"  width="500px" height="375px">
+
 ## Raspberry Pi Zero W pinout
 
 <img src="/IoT%20battery%20pack%20v1.2%20pinout/pics/Raspberry%20Pi%20Zero%20W%20pinout%202x10.png"  height="100px">
