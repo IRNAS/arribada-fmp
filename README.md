@@ -15,4 +15,4 @@ src="/pics/IMG_20170929_140921.jpg"  width="400px" height="300px"></span>
 
 ## <a href="https://github.com/IRNAS/arribada-fmp/tree/master/PiRA%20Zero%20pinout">With PiRA Zero</a>
 
-<img src="/pics/IMG_20170929_141407.jpg"  width="500px" height="375px">
+<img src="/PiRA%20Zero%20pinout/pics/IMG_20171025_102748.jpg"  width="500px" height="375px">
