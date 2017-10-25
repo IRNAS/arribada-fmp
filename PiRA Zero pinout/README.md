@@ -19,8 +19,10 @@ Not connected:
 <img src="/PiRA%20Zero%20pinout/pics/PiRA%20pinout%201x4%20%2B%201x2.png"  height="60px">
 
 Connection to Satcomm Module RockBLOCK Mk2:
+ * 1 - GND (NC)
  * 2 - UART RXD to Satcomm Module RockBLOCK Mk2 RXD (blue)
  * 3 - UART TXD to Satcomm Module RockBLOCK Mk2 TXD (green)
+ * 4 - 3V3 (NC)
 
 Connection to Satcomm Module RockBLOCK Mk2:
  * 1 - OUT- to Satcomm Module RockBLOCK Mk2 GND (grey)
