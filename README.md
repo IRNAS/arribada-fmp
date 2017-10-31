@@ -5,7 +5,7 @@ Arribada Fish Monitoring Platform operation:
 1) wake up in predefined intervals ~2h
 2) measure water level with ultrasonic sensor MaxBotix Maxbotix Weather-Resistant Ultrasonic Rangefinder (MB7092XL-MaxSonar-WRMA1
 3) capture an imate with raspberry pi camera
-4) measure system parameters (battery voltage, charging status)
+4) measure system parameters (battery voltage, charging status), show on LCD display
 5) send message via Lora network using RMF95
 6) send message via RockBlock Iridium modem
 7) go to sleep
