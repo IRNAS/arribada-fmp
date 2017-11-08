@@ -2,15 +2,6 @@
 
 <img src="/PiRA%20Zero%20pinout/pics/IMG_20171025_102748.jpg"  width="500px" height="375px">
 
-## Raspberry Pi Zero W pinout
-
-<img src="/PiRA%20Zero%20pinout/pics/Raspberry%20Pi%20Zero%20W%20pinout%202x10.png"  height="100px">
-
-
-
-Not connected:
- * 1-14, 16, 18, 19, 21-40 (NC)
-
 ## PiRA Zero pinout
 
 <img src="/PiRA%20Zero%20pinout/pics/PiRA%20pinout%201x4%20%2B%201x2.png"  height="60px">
