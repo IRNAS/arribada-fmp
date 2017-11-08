@@ -4,7 +4,7 @@
 
 ## PiRA Zero pinout
 
-<img src="/PiRA%20pinout%201x3%20%2B%201x5%20%2B%201x3.png"  height="60px">
+<img src="/PiRA%20Zero%20pinout/pics/PiRA%20pinout%201x3%20%2B%201x5%20%2B%201x3.png"  height="60px">
 
 Not connected:
  * 1 - IO6 (NC)
