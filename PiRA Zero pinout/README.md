@@ -4,7 +4,7 @@
 
 ## PiRA Zero pinout
 
-<img src="/PiRA%20Zero%20pinout/pics/PiRA%20pinout%201x4%20%2B%201x2.png"  height="60px">
+<img src="/PiRA%20pinout%201x3%20%2B%201x5%20%2B%201x3.png"  height="60px">
 
 Not connected:
  * 1 - IO6 (NC)
@@ -23,7 +23,7 @@ Connection to Satcomm Module RockBLOCK Mk2:
  * 2 - IO25 to Ultrasonic Sensor MaxBotix TX (blue)
  * 3 - GND to Ultrasonic Sensor MaxBotix GND (grey)
 
-<img src="/PiRA%20Zero%20pinout/pics/PiRA%20pinout%201x4.png"  height="60px">
+<img src="/PiRA%20pinout%20%2B%20LCD%20Display%20pinout%201x4.png"  height="60px">
 
 Connection to LCD Display:
  * 1 - 3V3 to LCD Display VCC (red)
@@ -71,7 +71,7 @@ Connection to PiRA Zero:
 
  ## LCD Display pinout
 
-<img src="/PiRA%20Zero%20pinout/pics/LCD%20Display%20pinout%201x4.png"  height="60px">
+<img src="/PiRA%20Zero%20pinout/pics/PiRA%20pinout%20%2B%20LCD%20Display%20pinout%201x4.png"  height="60px">
 
 Connection to PiRA Zero:
  * 1 - VCC to PiRA Zero 3V3 (red)
