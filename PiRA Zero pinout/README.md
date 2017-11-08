@@ -6,10 +6,7 @@
 
 <img src="/PiRA%20Zero%20pinout/pics/Raspberry%20Pi%20Zero%20W%20pinout%202x10.png"  height="100px">
 
-Connection to Ultrasonic Sensor MaxBotix:
- * 15 - GPIO22 to Ultrasonic Sensor MaxBotix TX (blue)
- * 17 - 3V3 to Ultrasonic Sensor MaxBotix VCC (purple)
- * 20 - GND to Ultrasonic Sensor MaxBotix GND (grey)
+
 
 Not connected:
  * 1-14, 16, 18, 19, 21-40 (NC)
@@ -18,23 +15,30 @@ Not connected:
 
 <img src="/PiRA%20Zero%20pinout/pics/PiRA%20pinout%201x4%20%2B%201x2.png"  height="60px">
 
-Connection to Satcomm Module RockBLOCK Mk2:
- * 1 - GND (NC)
- * 2 - UART RXD to Satcomm Module RockBLOCK Mk2 RXD (blue)
- * 3 - UART TXD to Satcomm Module RockBLOCK Mk2 TXD (green)
- * 4 - 3V3 (NC)
+Not connected:
+ * 1 - IO6 (NC)
+ * 2 - IO5 (NC)
+ * 3 - 5V (NC)
 
 Connection to Satcomm Module RockBLOCK Mk2:
- * 1 - OUT- to Satcomm Module RockBLOCK Mk2 GND (grey)
- * 2 - OUT+ to Satcomm Module RockBLOCK Mk2 5Vin (purple)
+ * 1 - GND to Satcomm Module RockBLOCK Mk2 GND (grey)
+ * 2 - RX to Satcomm Module RockBLOCK Mk2 RXD (blue)
+ * 3 - TX to Satcomm Module RockBLOCK Mk2 TXD (green)
+ * 4 - 3V3 (NC)
+ * 5 - OUT to Satcomm Module RockBLOCK Mk2 Li Ion (purple)
+ 
+ Connection to Ultrasonic Sensor MaxBotix:
+ * 1 - 3V3 to Ultrasonic Sensor MaxBotix VCC (purple)
+ * 2 - IO25 to Ultrasonic Sensor MaxBotix TX (blue)
+ * 3 - GND to Ultrasonic Sensor MaxBotix GND (grey)
 
 <img src="/PiRA%20Zero%20pinout/pics/PiRA%20pinout%201x4.png"  height="60px">
 
 Connection to LCD Display:
- * 1 - GND to LCD Display GND (brown)
- * 2 - SCL to LCD Display SCL (yellow)
- * 3 - SDA to LCD Display SDA (orange)
- * 4 - 3V3 to LCD Display VCC (red)
+ * 1 - 3V3 to LCD Display VCC (red)
+ * 2 - GND to LCD Display GND (brown)
+ * 3 - SCL to LCD Display SCL (yellow)
+ * 4 - SDA to LCD Display SDA (orange)
 
 <img src="/PiRA%20Zero%20pinout/pics/PiRA%20pinout%201x2.png"  height="60px">
 
@@ -46,11 +50,11 @@ Connection to power switch:
 
 <img src="/PiRA%20Zero%20pinout/pics/Ultrasonic%20Sensor%20MaxBotix%20pinout%201x4.png"  height="60px">
 
-Connection to Raspberry Pi Zero W:
- * 1 - GND to Raspberry Pi Zero W GND (grey)
- * 2 - VCC to Raspberry Pi Zero W 3V3 (purple)
+Connection to PiRA Zero:
+ * 1 - GND to PiRA Zero GND (grey)
+ * 2 - VCC to PiRA Zero 3V3 (purple)
  * 3 - RX (NC)
- * 4 - TX to Raspberry Pi Zero W GPIO22 (blue)
+ * 4 - TX to PiRA Zero IO25 (blue)
  
  ## Satcomm Module RockBLOCK Mk2 pinout
 
@@ -58,21 +62,21 @@ Connection to Raspberry Pi Zero W:
 
 Connection to PiRA Zero:
  * 1 - RTS (NC)
- * 2 - RXD to PiRA Zero UART RXD (blue)
- * 3 - TXD to PiRA Zero UART TXD (green)
+ * 2 - RXD to PiRA Zero RX (blue)
+ * 3 - TXD to PiRA Zero TX (green)
  * 4 - VCC (NC)
  * 5 - CTS (NC)
  * 6 - GND (NC)
 
 Connection to PiRA Zero:
- * 7 - GND to PiRA Zero OUT- (grey)
- * 8 - 5Vin to PiRA Zero OUT+ (purple)
+ * 7 - GND (NC)
+ * 8 - 5Vin (NC)
  * 9 - 5Vout (NC)
  * 10 - Ring Indicator (NC)
  * 11 - NetAv (NC)
  * 12 - OnOff (NC)
- * 13 - LiIon (NC)
- * 14 - GND (NC)
+ * 13 - LiIon to PiRA Zero OUT (purple)
+ * 14 - GND to PiRA Zero GND (grey)
 
  ## LCD Display pinout
 
