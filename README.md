@@ -1,7 +1,7 @@
-# Arribada Fish Monitoring Platform
-Arribada Fish Monitoring Platform (AFMP) is a standalone off-grid device featuring a Raspberry Pi and a range of sensors and cameras. In this particular implementation it is designed for measuring the ater level by being suspended above a river and reporting values via satellite and lora networks as well as taking some webcam images.
+# Arribada Freshwater Monitoring Platform
+Arribada Freshwater Monitoring Platform (AFMP) is a standalone off-grid device featuring a Raspberry Pi and a range of sensors and cameras. In this particular implementation it is designed for measuring the ater level by being suspended above a river and reporting values via satellite and lora networks as well as taking some webcam images.
 
-Arribada Fish Monitoring Platform operation:
+Arribada Freshwater Monitoring Platform operation:
 1) wake up in predefined intervals ~2h
 2) measure water level with ultrasonic sensor MaxBotix Maxbotix Weather-Resistant Ultrasonic Rangefinder (MB7092XL-MaxSonar-WRMA1
 3) capture an imate with raspberry pi camera
