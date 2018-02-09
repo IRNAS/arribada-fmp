@@ -25,7 +25,7 @@ Connection to Satcomm Module RockBLOCK Mk2:
 
 ## Ultrasonic Sensor MaxBotix pinout
 
-<img src="/PiRA%20Zero%20pinout/pics/Ultrasonic%20Sensor%20MaxBotix%20pinout%201x4.png"  height="60px">
+<img src="/PiRA%20Zero%20pinout/pics/Ultrasonic%20Sensor%20MaxBotix%20pinout%201x3.png"  height="60px">
 
 Connection to PiRA Zero:
  * 1 - GND to PiRA Zero GND (grey)
