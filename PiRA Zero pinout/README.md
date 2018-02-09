@@ -4,7 +4,7 @@
 
 ## PiRA Zero pinout
 
-<img src="/PiRA%20Zero%20pinout/pics/PiRA%20pinout%201x3%20%2B%201x5%20%2B%201x3.png"  height="60px">
+<img src="/PiRA%20Zero%20pinout/pics/PiRA%20pinout%201x3%2B1x5%2B1x3.png"  height="60px">
 
 Connection to debug switch:
  * 1 - IO6 to debug switch (black)
@@ -34,7 +34,7 @@ Connection to PiRA Zero:
  
  ## Satcomm Module RockBLOCK Mk2 pinout
 
-<img src="/PiRA%20Zero%20pinout/pics/Satcomm%20Module%20RockBLOCK%20Mk2%20pinout%201x6%20%2B%201x8.png"  height="60px">
+<img src="/PiRA%20Zero%20pinout/pics/Satcomm%20Module%20RockBLOCK%20Mk2%20pinout%201x6%2B1x8.png"  height="60px">
 
 Connection to PiRA Zero:
  * 1 - RTS (NC)
