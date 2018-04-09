@@ -10,19 +10,12 @@ Arribada Freshwater Monitoring Platform operation:
 6) send message via RockBlock Iridium modem
 7) go to sleep
 
-<img src="/pics/afmp-with-solar-module.png"  width="800px">
+<img src="/pics/afmp-with-solar-module.png"  width="850px">
 
-![alt-text-1](/pics/arribada-fmp-1.jpg "title-1" width="200px") ![alt-text-2](/pics/arribada-fmp-2.jpg "title-2" width="200px")
-<img
-src="/pics/arribada-fmp-1.jpg"  width="400px" height="50%">
+<img src="/pics/arribada-fmp-1.jpg"  width="425"> <img src="/pics/arribada-fmp-2.jpg"  width="425">  
 
-<img
-src="/pics/arribada-fmp-2.jpg"  width="400px" height="50%">
-
-
+<img src="/pics/arribada-fmp-3.jpg"  width="425"> <img src="/pics/arribada-fmp-4.jpg"  width="425">  
 
 ## <a href="https://github.com/IRNAS/arribada-fmp/tree/master/PiRA%20Zero%20pinout">With PiRA Zero</a>
-
-<img src="/PiRA%20Zero%20pinout/pics/IMG_20171025_102748.jpg"  width="425" height="375px">
 
 <img src="/PiRA%20Zero%20pinout/pics/IMG_20171025_102748.jpg"  width="425">
